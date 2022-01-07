@@ -10,7 +10,7 @@
 
 <p align="center">
  <a target="_blank" href=https://github.com/blueedgetechno>
-  <img src=https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social />
+  <img src=https://img.shields.io/github/followers/Roblox16?label=follow%20me&style=social />
   &nbsp;
 </a>
 
@@ -19,17 +19,17 @@
   &nbsp;
 </a>
 
-<a target="_blank" href=https://twitter.com/blueedgetechno>
+<a target="_blank" href=https://twitter.com/RageQuitter10>
   <img height="25" width="25" src="https://abs.twimg.com/favicons/twitter.ico" />
   &nbsp;
 </a>
 
-<a target="_blank" href=mailto:blueedgetechno@gmail.com>
+<a target="_blank" href=mailto:ragequitter121212@gmail.com>
   <img height="25" width="25" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
   &nbsp;
 </a>
 
-<a target="_blank" href=https://blueedge.me >
+<a target="_blank" href=https://Roblox16.github.io/My-Website >
   <img height="25" width="25" src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/pngegg.png" fill="#fff"/>
   &nbsp;
 </a>
@@ -59,7 +59,7 @@
 
 <p align="center">
 
-<img width="500" src="https://metrics.lecoq.io/blueedgetechno" alt="Github Metrics">
+<img width="500" src="https://metrics.lecoq.io/Roblox16" alt="Github Metrics">
   
 <br>
 
@@ -67,13 +67,13 @@
 
 <br>
 
-|![](https://github-readme-stats.vercel.app/api?username=blueedgetechno&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=blueedgetechno&layout=compact&theme=tokyonight&langs_count=10)|
+|![](https://github-readme-stats.vercel.app/api?username=Roblox16&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=blueedgetechno&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
-![](https://activity-graph.herokuapp.com/graph?username=blueedgetechno&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=Roblox16&theme=redical)
 
-![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Roblox16/Roblox16/output/github-contribution-grid-snake.svg)
 
 <br>
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=blueedgetechno" alt="blueedge"/> </p>  </p>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=Roblox16" alt="Roblox16"/> </p>  </p>
 <br>
