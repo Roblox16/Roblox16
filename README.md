@@ -5,11 +5,11 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile2.gif"/>
+  <img src="https://raw.githubusercontent.com/Roblox16/Roblox16/master/img/profile2.gif"/>
 </p>
 
 <p align="center">
- <a target="_blank" href=https://github.com/blueedgetechno>
+ <a target="_blank" href=https://github.com/Roblox16>
   <img src=https://img.shields.io/github/followers/Roblox16?label=follow%20me&style=social />
   &nbsp;
 </a>
@@ -30,7 +30,7 @@
 </a>
 
 <a target="_blank" href=https://Roblox16.github.io/My-Website >
-  <img height="25" width="25" src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/pngegg.png" fill="#fff"/>
+  <img height="25" width="25" src="https://raw.githubusercontent.com/Roblox16/Roblox16/master/img/pngegg.png" fill="#fff"/>
   &nbsp;
 </a>
 </p>
